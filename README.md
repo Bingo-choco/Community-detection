@@ -1,4 +1,6 @@
-:bulb: The latest and final version of this algorithm is in   
+:bulb: The latest and final version of this algorithm, its route is BK\src\main\scala\BBB\Final.scala  
+:scissors: I'm so sorry that I donn't have sufficient time to sort up my code.  
+I'll gradually update it in the next few days after my first Commit.:stuck_out_tongue_closed_eyes:  
 
 # Community-detection
 use [spark+scala] to implement CPM(Cluster Percolation Method):smiley:   
