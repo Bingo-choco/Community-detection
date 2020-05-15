@@ -1,3 +1,5 @@
+:bulb: The latest and final version of this algorithm is in   
+
 # Community-detection
 use [spark+scala] to implement CPM(Cluster Percolation Method):smiley:   
 As we konw, the CPM algorithm has three steps on the whole, but I have made a little alteration for the dataset and my project.  
