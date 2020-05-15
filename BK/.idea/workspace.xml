@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85b4d1f8-fe91-4864-8f81-ee99bf443fa9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IntelliJ IDEA 2019.3.4\plugins\maven\lib\maven3\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IntelliJ IDEA 2019.3.4\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZWwpPCjMhoyOANBctdumz775Hy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CPM" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Community">
+    <configuration name="Community" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Community" />
+      <module name="BK" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AAA.Count1" />
+      <module name="BK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AAA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMaximalCliques" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AAA.FindMaximalCliques" />
+      <module name="BK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AAA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageRank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AAA.PageRank" />
+      <module name="BK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AAA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restore" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AAA.restore" />
+      <module name="BK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AAA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Community" />
+        <item itemvalue="Application.Count1" />
+        <item itemvalue="Application.PageRank" />
+        <item itemvalue="Application.restore" />
+        <item itemvalue="Application.FindMaximalCliques" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b4d1f8-fe91-4864-8f81-ee99bf443fa9" name="Default Changelist" comment="" />
+      <created>1584968339149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584968339149</updated>
+      <workItem from="1584968347378" duration="3761000" />
+      <workItem from="1584973121668" duration="3467000" />
+      <workItem from="1585008324193" duration="11349000" />
+      <workItem from="1585050785199" duration="2662000" />
+      <workItem from="1585096327425" duration="3864000" />
+      <workItem from="1585115193647" duration="11050000" />
+      <workItem from="1585270058789" duration="8803000" />
+      <workItem from="1585287336909" duration="2325000" />
+      <workItem from="1585289687032" duration="13133000" />
+      <workItem from="1585355812658" duration="11437000" />
+      <workItem from="1585442116686" duration="623000" />
+      <workItem from="1585445264775" duration="9109000" />
+      <workItem from="1585457792767" duration="1381000" />
+      <workItem from="1585538548251" duration="549000" />
+      <workItem from="1586154835412" duration="1148000" />
+      <workItem from="1587023770536" duration="51000" />
+      <workItem from="1587352873715" duration="631000" />
+      <workItem from="1587695524572" duration="905000" />
+      <workItem from="1587696879340" duration="4022000" />
+      <workItem from="1587894839837" duration="377000" />
+      <workItem from="1589507997485" duration="1293000" />
+      <workItem from="1589512598942" duration="1059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="10" key="#FindMaximalCliques" timestamp="1585009296082">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="10" key="#FindMaximalCliques/0.0.1280.680@0.0.1280.680" timestamp="1585009296082" />
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585454842068">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585454842068" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585289662337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585289662337" />
+    <state x="381" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585446008129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585446008129" />
+    <state x="387" y="255" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584976591640">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="255" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.680@0.0.1280.680" timestamp="1584976591640" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1589513167261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589513167261" />
+    <state width="1237" height="322" key="GridCell.Tab.0.bottom" timestamp="1587725696381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="322" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587725696381" />
+    <state width="1237" height="322" key="GridCell.Tab.0.center" timestamp="1587725696381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="322" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587725696381" />
+    <state width="1237" height="322" key="GridCell.Tab.0.left" timestamp="1587725696381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="322" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587725696381" />
+    <state width="1237" height="322" key="GridCell.Tab.0.right" timestamp="1587725696381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="322" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587725696381" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585289664447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585289664447" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585289664447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585289664447" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585289664447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585289664447" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585289664447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585289664447" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586155982547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586155982547" />
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589512612053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589512612053" />
+    <state x="28" y="0" key="new project wizard" timestamp="1587352903823">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587352903823" />
+  </component>
+</project>
