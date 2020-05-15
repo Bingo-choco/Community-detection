@@ -24,7 +24,7 @@ maximal cliques are 'related' with the current one. However, this alteratin does
 5.Use the modularity to evaluate the outcome.  
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''  
-:facepunch: Now I generalize my function in this project
-(1)bronKerboschl              the basic form of bronkerbosch algorithm
-(2)bronkerbosch2              the bronkerbosch algorithm with pivoting
+:facepunch: Now I generalize my function in this project  
+(1)bronKerboschl              the basic form of bronkerbosch algorithm  
+(2)bronkerbosch2              the bronkerbosch algorithm with pivoting  
 (3)
