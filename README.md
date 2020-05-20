@@ -44,6 +44,12 @@ As for the nodes, it only need to create a range (1,1293) which is no need to re
 :facepunch: Now I generalize my function in this project  
 (1)bronKerboschl              the basic form of bronkerbosch algorithm  
 (2)bronkerbosch2              the bronkerbosch algorithm with pivoting  
-(3)statistic                  calculate the numbers of different sizes of maximal cliques
+(3)statistic                  calculate the numbers of different sizes of maximal cliques  
 (4)count_Q                    get the modularity of current community  
-(5)
+(5)fliter_cliques             fliter the maximal cliques which size is no more than k(k is the formal parameter of this function)  
+(6)CPM_merge                  implemnt the CPM algorithm [get the 'related' maximal cliques of each maximal cliques and store them in set]  
+ps: 'related' means that these two cliques have no less than standard(also a formal parameter) same nodes.  
+(7)deal_martrix               merge all the related cliques together(this function contains another dfs function)  
+
+:paw_prints:Notice  
+The maxiaml cliques which you fliter[k] and the same nodes[standard] that two maxiaml cliques can be merged together play a crucial role on the effectiveness of algorithm.
