@@ -28,6 +28,17 @@ maximal cliques are 'related' with the current one. However, this alteratin does
 5.Use the modularity to evaluate the outcome.  
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''  
+The first update after I firstly wrote Readme: 5/20/2020 14:26  
+:zap:About dataset  
+:thought_balloon: The dataset I finally used to test my algorithm, is also the one showed on the console.  
+:speech_balloon:Its description is below:    
+This dataset consists of 1293 terrorist attacks each assigned one of 6 labels indicating the type of the attack. Each attack is   described by a 0/1-valued vector of attributes whose entries indicate the absence/presence of a feature. There are a total of 106   distinct features. The files in the dataset can be used to create two distinct graphs.     
+Although the dataset has its real labels essentially, you can refer that its labels is aimed at the classification which apply  
+0/1 vectors of attributes on the algorithm.  
+:maple_leaf:As a result, the two common methods for evaluation in community detection: (1) rand index (2) modularity  
+We could only use the latter, because labels are unavailabel.  
+ps:the terrorist
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''  
 :facepunch: Now I generalize my function in this project  
 (1)bronKerboschl              the basic form of bronkerbosch algorithm  
 (2)bronkerbosch2              the bronkerbosch algorithm with pivoting  
