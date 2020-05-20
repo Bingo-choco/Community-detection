@@ -36,9 +36,11 @@ This dataset consists of 1293 terrorist attacks each assigned one of 6 labels in
 Although the dataset has its real labels essentially, you can refer that its labels is aimed at the classification which apply  
 0/1 vectors of attributes on the algorithm.  
 :maple_leaf:As a result, the two common methods for evaluation in community detection: (1) rand index (2) modularity  
-We could only use the latter, because labels are unavailabel.  
-ps:the terrorist
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''  
+We could only use the latter, because labels are unavailabel. 
+  
+:mushroom:ps:this dataset I only use file named 'terrorist_attack_loc.edges' which contains all the edges that we should take into consideration   and changed it into the format, eg: 23 200 this means that the '23' is related to the '200'.  
+As for the nodes, it only need to create a range (1,1293) which is no need to read the node file.  
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 
 :facepunch: Now I generalize my function in this project  
 (1)bronKerboschl              the basic form of bronkerbosch algorithm  
 (2)bronkerbosch2              the bronkerbosch algorithm with pivoting  
