@@ -40,8 +40,10 @@ We could only use the latter, because labels are unavailabel.
   
 :mushroom:ps:this dataset I only use file named 'terrorist_attack_loc.edges' which contains all the edges that we should take into consideration   and changed it into the format, eg: 23 200 this means that the '23' is related to the '200'.  
 As for the nodes, it only need to create a range (1,1293) which is no need to read the node file.  
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''   
 :facepunch: Now I generalize my function in this project  
 (1)bronKerboschl              the basic form of bronkerbosch algorithm  
 (2)bronkerbosch2              the bronkerbosch algorithm with pivoting  
-(3)
+(3)statistic                  calculate the numbers of different sizes of maximal cliques
+(4)count_Q                    get the modularity of current community  
+(5)
